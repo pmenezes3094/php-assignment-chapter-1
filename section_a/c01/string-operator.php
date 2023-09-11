@@ -1,7 +1,7 @@
 <?php 
 $prefix  = 'Thank you';
-$name    = 'Ivy';
-$message = $prefix . ', ' . $name;
+$name    = 'Priya';
+$message = "$prefix  $name";
 ?>
 <!DOCTYPE html>
 <html>
